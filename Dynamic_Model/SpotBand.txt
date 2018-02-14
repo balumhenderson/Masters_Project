@@ -1,0 +1,5 @@
+| Spot/Band | Latitude | RelBright | RelVel | Phase | MajorDiam | MinorDiam | BandHeight | Permanent | SpotBegin | SpotEnd |
+|      Spot |      0.0 |       7.0 |    1.2 |   0.0 |12350000.0 |13000000.0 |            |     False |       500 |    3000 |
+|      Spot |      0.0 |       7.0 |    1.5 |   0.0 |12350000.0 |13000000.0 |            |      True |           |         |
+|      Band |      0.0 |       1.2 |   1.25 |   0.0 |           |           |  1260000.0 |           |           |         |
+|      Band |      0.0 |       1.6 |    0.8 |   0.0 |           |           |   820000.0 |           |           |         |

@@ -1,0 +1,5 @@
+Quarter 10 and 14  WISE 190648... Referenced in email from Beth, Gizis et. al. 2013
+
+PSO318 data for sinusoid
+
+include ensemble sampler acceptance fraction
